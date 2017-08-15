@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import '../App.css';
 import {Card, Col} from 'react-materialize'
+import { Link } from 'react-router-dom'
 
 class App extends Component {
   render() {
@@ -9,7 +10,7 @@ class App extends Component {
     
     <div className="row">
      <Col m={6} s={12}>
-		  <Card className='blue-grey darken-1' textClassName='white-text' title='Maps' actions={[<a href='#'>THIS IS A LINK</a>]}>
+		  <Card className='blue-grey darken-1' textClassName='white-text' title='Maps' actions={[<Link to="/">THIS IS A LINK</Link>]}>
 		    I am a very simple clickable card to go to maps 
 		  </Card>
     </Col> 
