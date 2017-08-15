@@ -23,17 +23,6 @@ class SearchBar extends Component {
       </div> 
     ); 
   }
-
-
-  // onInputChange(event) {
-  //   console.log(event.target.value);
-  // }
-  // console log from render above 
-
 }
-// new SearchBar
-// const SearchBar = () => {
-//   return <input /> 
-// }
 
 export default SearchBar;

@@ -29,8 +29,6 @@ class Music extends React.Component {
         videos: videos, 
         selectedVideo: videos[0]
       });
-      // this.setState({videos: videos}); 
-      // we can use just videos because the names match. { key:value}
     });
   }
 
