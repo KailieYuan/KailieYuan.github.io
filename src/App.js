@@ -1,12 +1,8 @@
 import React, { Component } from 'react';
-import './App.css';
-import Map from './components/maps.js'
-import Home from './container/Home.js'
 import {Card, Col} from 'react-materialize'
-import {
-  Route,
-  Link
-} from 'react-router-dom'
+
+import './App.css';
+
 
 class App extends Component {
   render() {
