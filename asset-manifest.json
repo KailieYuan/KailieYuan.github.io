@@ -1,6 +1,12 @@
 {
   "main.css": "static/css/main.e0dea47f.css",
   "main.css.map": "static/css/main.e0dea47f.css.map",
-  "main.js": "static/js/main.e3bb67e1.js",
-  "main.js.map": "static/js/main.e3bb67e1.js.map"
+  "main.js": "static/js/main.50778f46.js",
+  "main.js.map": "static/js/main.50778f46.js.map",
+  "static/media/cards_cal.jpg": "static/media/cards_cal.cd77e674.jpg",
+  "static/media/cards_chat.jpg": "static/media/cards_chat.c29db30c.jpg",
+  "static/media/cards_exercise.jpg": "static/media/cards_exercise.873b2e6c.jpg",
+  "static/media/cards_games.jpg": "static/media/cards_games.eeba8acd.jpg",
+  "static/media/cards_map.jpg": "static/media/cards_map.dbc8f060.jpg",
+  "static/media/cards_music.jpg": "static/media/cards_music.8f067cb8.jpg"
 }
