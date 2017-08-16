@@ -4,8 +4,10 @@ import './index.css';
 import App from './App';
 import Mapper from './components/maps.js'
 import Music from './components/music.js'
+import Games from './components/games.js'
+import ColorFlood from './container/colorflood.js'
 import Home from './container/Home.js'
-import {BrowserRouter as Router, Route,Link } from 'react-router-dom'
+import {BrowserRouter as Router, Route, Link, Switch } from 'react-router-dom'
 import registerServiceWorker from './registerServiceWorker';
 
 ReactDOM.render(
@@ -15,6 +17,8 @@ ReactDOM.render(
   <Route exact path="/home" component={ Home }/>
   <Route path="/map" component={ Mapper }/>
   <Route path="/music" component={ Music }/>
+  <Route exact path="/games" component={ Games }/>
+  <Route path="/games/colorflood" component={ ColorFlood }/>
   </div>
 </Router>, document.getElementById('root'));
 registerServiceWorker();

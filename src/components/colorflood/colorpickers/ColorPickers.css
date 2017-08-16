@@ -1,0 +1,9 @@
+.pickers {
+	display: flex;
+	
+	/* margin-bottom: 5px; */
+	padding: 5px;
+	margin-right: 0px;
+	width: 50%;
+  margin: 0 auto;
+}
