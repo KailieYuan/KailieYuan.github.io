@@ -17,7 +17,7 @@ class Calendar extends React.Component {
 	      	<div className="reminder">
 		  		<div className="player-container">
 		      		<ReactAudioPlayer
-					  src={require('../audio/George_Gershwin_playing_Rhapsody_in_Blue.ogg')}
+					  src={require('../audio/event1.ogg')}
 					  controls
 					/>
 				</div>
@@ -26,7 +26,7 @@ class Calendar extends React.Component {
 		  	<div className="reminder">
 		  		<div className="player-container">
 		      		<ReactAudioPlayer
-					  src={require('../audio/George_Gershwin_playing_Rhapsody_in_Blue.ogg')}
+					  src={require('../audio/event2.ogg')}
 					  controls
 					/>
 				</div>
@@ -35,7 +35,7 @@ class Calendar extends React.Component {
 		  	<div className="reminder">
 		  		<div className="player-container">
 		      		<ReactAudioPlayer
-					  src={require('../audio/George_Gershwin_playing_Rhapsody_in_Blue.ogg')}
+					  src={require('../audio/event3.ogg')}
 					  controls
 					/>
 				</div>
@@ -44,7 +44,7 @@ class Calendar extends React.Component {
 		  	<div className="reminder">
 		  		<div className="player-container">
 		      		<ReactAudioPlayer
-					  src={require('../audio/George_Gershwin_playing_Rhapsody_in_Blue.ogg')}
+					  src={require('../audio/event4.ogg')}
 					  controls
 					/>
 				</div>
@@ -53,7 +53,7 @@ class Calendar extends React.Component {
 		  	<div className="reminder">
 		  		<div className="player-container">
 		      		<ReactAudioPlayer
-					  src={require('../audio/George_Gershwin_playing_Rhapsody_in_Blue.ogg')}
+					  src={require('../audio/event5.ogg')}
 					  controls
 					/>
 				</div>
@@ -64,7 +64,7 @@ class Calendar extends React.Component {
 		  	<div className="reminder">
 		  		<div className="player-container">
 		      		<ReactAudioPlayer
-					  src={require('../audio/George_Gershwin_playing_Rhapsody_in_Blue.ogg')}
+					  src={require('../audio/event6.ogg')}
 					  controls
 					/>
 				</div>
@@ -73,7 +73,7 @@ class Calendar extends React.Component {
 		  	<div className="reminder">
 		  		<div className="player-container">
 		      		<ReactAudioPlayer
-					  src={require('../audio/George_Gershwin_playing_Rhapsody_in_Blue.ogg')}
+					  src={require('../audio/event7.ogg')}
 					  controls
 					/>
 				</div>
@@ -82,7 +82,7 @@ class Calendar extends React.Component {
 		  	<div className="reminder">
 		  		<div className="player-container">
 		      		<ReactAudioPlayer
-					  src={require('../audio/George_Gershwin_playing_Rhapsody_in_Blue.ogg')}
+					  src={require('../audio/event8.ogg')}
 					  controls
 					/>
 				</div>
@@ -91,7 +91,7 @@ class Calendar extends React.Component {
 		  	<div className="reminder">
 		  		<div className="player-container">
 		      		<ReactAudioPlayer
-					  src={require('../audio/George_Gershwin_playing_Rhapsody_in_Blue.ogg')}
+					  src={require('../audio/event9.ogg')}
 					  controls
 					/>
 				</div>
@@ -100,7 +100,7 @@ class Calendar extends React.Component {
 		  	<div className="reminder">
 		  		<div className="player-container">
 		      		<ReactAudioPlayer
-					  src={require('../audio/George_Gershwin_playing_Rhapsody_in_Blue.ogg')}
+					  src={require('../audio/event10.ogg')}
 					  controls
 					/>
 				</div>
@@ -109,7 +109,7 @@ class Calendar extends React.Component {
 		  	<div className="reminder">
 		  		<div className="player-container">
 		      		<ReactAudioPlayer
-					  src={require('../audio/George_Gershwin_playing_Rhapsody_in_Blue.ogg')}
+					  src={require('../audio/event11.ogg')}
 					  controls
 					/>
 				</div>
