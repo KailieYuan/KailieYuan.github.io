@@ -36,3 +36,47 @@
 .list-group-item:hover {
   background-color: #eee; 
 }
+
+.parent {
+  display: flex;
+}
+.narrow {
+  width: 380px;
+  background: lavender;
+  margin: 5px;
+  border-radius: 7px;
+  padding: 10px;
+}
+.wide {
+  width: 800px;
+}
+.player-container{
+  width: 32px;
+  overflow: hidden;
+  margin: 5px;
+  border-radius: 7px;
+}
+
+.text-container{
+  margin-top:13px;
+  width: 360px;
+}
+
+.reminder {
+  display: -webkit-inline-box;
+}
+
+.header-text{
+  margin-left: 5px;
+  font-weight: 600;
+  color: #006699;
+  font-size: 22px;
+  text-align: -webkit-center;
+}
+
+.sub-text{
+  font-weight: bold;
+  font-size: 13px;
+  color: cornflowerblue;
+  margin-left: 5px;
+}
