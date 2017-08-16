@@ -13,7 +13,7 @@ class App extends Component {
                     className='small blue lighten-5'
                     textClassName='black-text' title="Events Calender" header={<CardTitle
                     image={require('../images/cards_cal.jpg')} waves='light' />}
-                    actions={[<Link to="/">Events Calendar</Link>]}
+                    actions={[<Link to="/events">Events Calendar</Link>]}
                     >
                 </Card>
             </Col> 
@@ -22,7 +22,7 @@ class App extends Component {
                     className='small blue lighten-5'
                     textClassName='black-text' title="Maps" header={<CardTitle
                     image={require('../images/cards_map.jpg')} waves='light' />}
-                    actions={[<Link to="/">Maps</Link>]}
+                    actions={[<Link to="/map">Maps</Link>]}
                     >
                 </Card>
             </Col> 
@@ -58,7 +58,7 @@ class App extends Component {
                     className='small blue lighten-5'
                     textClassName='black-text' title="Music" header={<CardTitle
                     image={require('../images/cards_music.jpg')} waves='light' />}
-                    actions={[<Link to="/">Music</Link>]}
+                    actions={[<Link to="/music">Music</Link>]}
                     >
                 </Card>
             </Col> 
