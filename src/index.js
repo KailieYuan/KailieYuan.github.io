@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import Mapper from './components/maps.js'
 import Music from './components/music.js'
+import Exercise from './components/exercise.js'
 import Games from './components/games.js'
 import ColorFlood from './container/colorflood.js'
 import Calendar from './components/calendar.js'
@@ -21,6 +22,7 @@ ReactDOM.render(
   <Route exact path="/games" component={ Games }/>
   <Route path="/games/colorflood" component={ ColorFlood }/>
   <Route path="/events" component={ Calendar }/>
+  <Route path="/exercise" component={ Exercise }/>
   </div>
 </Router>, document.getElementById('root'));
 registerServiceWorker();
