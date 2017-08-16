@@ -1,13 +1,16 @@
 {
-  "main.css": "static/css/main.e4a9059c.css",
-  "main.css.map": "static/css/main.e4a9059c.css.map",
-  "main.js": "static/js/main.f12db246.js",
-  "main.js.map": "static/js/main.f12db246.js.map",
+  "main.css": "static/css/main.ef678178.css",
+  "main.css.map": "static/css/main.ef678178.css.map",
+  "main.js": "static/js/main.ca97be1f.js",
+  "main.js.map": "static/js/main.ca97be1f.js.map",
   "static/media/ColorFlood.jpg": "static/media/ColorFlood.c2a98871.jpg",
+  "static/media/Jeopardy.jpg": "static/media/Jeopardy.af3f0309.jpg",
+  "static/media/add_more.png": "static/media/add_more.b3e489f9.png",
   "static/media/cards_cal.jpg": "static/media/cards_cal.cd77e674.jpg",
   "static/media/cards_chat.jpg": "static/media/cards_chat.c29db30c.jpg",
   "static/media/cards_exercise.jpg": "static/media/cards_exercise.873b2e6c.jpg",
   "static/media/cards_games.jpg": "static/media/cards_games.eeba8acd.jpg",
   "static/media/cards_map.jpg": "static/media/cards_map.dbc8f060.jpg",
-  "static/media/cards_music.jpg": "static/media/cards_music.8f067cb8.jpg"
+  "static/media/cards_music.jpg": "static/media/cards_music.8f067cb8.jpg",
+  "static/media/sudoku.jpg": "static/media/sudoku.f8f7e1e2.jpg"
 }
