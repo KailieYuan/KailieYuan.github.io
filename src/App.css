@@ -86,7 +86,7 @@
 
 .text-container{
   margin-top:13px;
-  width: 360px;
+  width: 340px;
 }
 
 .reminder {
@@ -106,4 +106,22 @@
   font-size: 13px;
   color: cornflowerblue;
   margin-left: 5px;
+}
+
+.white-link{
+  color: white;
+}
+
+.register-btn {
+  padding: 0 10px;
+  background-color: lavender;
+  color: darkslategray;
+  font-size: 12px;
+  font-weight: bold;
+  margin-top: 7px;
+}
+
+.barcode{
+  width: 90%;
+  height: 100px;
 }
