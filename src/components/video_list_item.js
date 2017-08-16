@@ -11,7 +11,7 @@ const VideoListItem = ({ video, onVideoSelect }) => {
 
         <div className="media-body">
           <div className="media-heading">
-            {video.snippet.title}
+            {video.snippet.title.substring(0, 27)}
           </div>
         </div>
       </div>

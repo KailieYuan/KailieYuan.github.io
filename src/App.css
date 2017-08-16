@@ -22,11 +22,12 @@
   max-width: 64px; 
 }
 
-.video-detail .details {
+ .details {
   margin-top: 10px;
   padding: 10px; 
   border: 1px solid #ddd;
   border-radius: 4px; 
+  
 }
 
 .list-group-item{
@@ -35,4 +36,30 @@
 
 .list-group-item:hover {
   background-color: #eee; 
+}
+
+.exercise-container{
+  display: flex;
+}
+
+.video-container{
+  position: relative !important;
+  height: 75% !important;
+  margin-right: 5%;
+  margin-left: 5%;
+  
+ 
+}
+
+.iframe-special{
+  height: 75% !important;
+}
+
+.even{
+  background-color: lightgrey;
+}
+
+.videoList{
+  display: flex;
+  justify-content: space-around;
 }
