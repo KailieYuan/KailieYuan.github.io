@@ -40,7 +40,7 @@ class App extends Component {
                     className='small blue lighten-5'
                     textClassName='black-text' title="Exercise" header={<CardTitle
                     image={require('../images/cards_exercise.jpg')} waves='light' />}
-                    actions={[<Link to="/">Exercise</Link>]}
+                    actions={[<Link to="/exercise">Exercise</Link>]}
                     >
                 </Card>
             </Col> 
