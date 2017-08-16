@@ -36,3 +36,23 @@
 .list-group-item:hover {
   background-color: #eee; 
 }
+
+.exercise-container{
+  display: flex;
+}
+
+.video-container{
+  position: relative !important;
+  height: 75% !important;
+  margin-right: 5%;
+  
+ 
+}
+
+.iframe-special{
+  height: 75% !important;
+}
+
+.even{
+  background-color: lightgrey;
+}
