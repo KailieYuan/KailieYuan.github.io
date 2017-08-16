@@ -13,7 +13,7 @@ class App extends Component {
                     className='small blue lighten-5'
                     textClassName='black-text' title="Events Calender" header={<CardTitle
                     image={require('../images/cards_cal.jpg')} waves='light' />}
-                    actions={[<Link to="/">Events Calendar</Link>]}
+                    actions={[<Link to="/events">Events Calendar</Link>]}
                     >
                 </Card>
             </Col> 
